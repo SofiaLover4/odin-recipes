@@ -1,0 +1,54 @@
+.home,
+.recipetitles,
+.title{
+    text-align: center;
+    font-family: "American Typewriter", sans-serif;
+}
+
+p {
+    font-size: 16px;
+}
+
+.title{
+    font-size: 40px;
+    color: blue;
+}
+
+.recipetitles{
+    font-size: 35px;
+    color:rgb(183, 31, 31);
+}
+
+.img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.subsections{
+    font-family: "Gill Sans", sans-serif;
+    font-size: 16px;
+}
+
+.subsections .title{
+    color: rgb(234, 68, 68);
+    font-size: 28px;
+    font-family: "Gill Sans", sans-serif;
+}
+
+
+.steps,
+.ingredients{
+    line-height: 25px;
+}
+.ingredients{
+    color: rgb(232, 15, 77); 
+}
+.steps{
+    color: blueviolet;
+}
+
+.opening{
+    font-size: 18px;
+}
